@@ -13,7 +13,7 @@
 
 - 🔧 2.9 years of experience in IT (Develpment)  
 - 💻 Currently working with **SpringBoot**, **Microservices**, and **Angular**
-- Also had strong experience in backend development using **Java** and **SQL**
+- 💻 Also have strong experience in backend development using **Java** and **SQL**
 - 🧩 I enjoy solving backend challenges and architecting scalable systems  
 - 🛠️ I believe in clean code, collaboration, and continuous learning  
 
@@ -66,8 +66,6 @@
 ## 💻 I Code With
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
